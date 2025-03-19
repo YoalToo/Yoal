@@ -8,6 +8,16 @@
 		"RGB": [45,108,145]
 	},
 	{
+		"name": "Coast",
+		"type": "Water",
+		"food": 1,
+		"movementCost": 1,
+		"RGB": [107,167,193],
+		"uniques": ["[+2] to Fertility for Map Generation",
+				"Considered [Desirable] when determining start locations <on water maps>",
+				"Every [60] tiles with this terrain will receive a major deposit of a strategic resource."]
+	},
+	{
 		"name": "Grassland",
 		"type": "Land",
 		"food": 2,
