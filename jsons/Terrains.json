@@ -18,11 +18,19 @@
 				"Every [60] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
+		"name": "Plain",
+		"type": "Land",
+		"food": 1,
+		"movementCost": 1,
+       	 	"RGB": [0, 163, 0],
+       	 	"uniques": []
+    	},
+	{
 		"name": "Grassland",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
-       	 	"RGB": [0, 163, 0],
+       	 	"RGB": [168,185,102],
        	 	"uniques": []
-    }
+    	}
 ]
