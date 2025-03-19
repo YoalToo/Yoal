@@ -1,10 +1,18 @@
 [
 	{
+		"name": "Ocean",
+		"type": "Water",
+		"food": 1,
+		"gold": 1,
+		"movementCost": 1,
+		"RGB": [45,108,145]
+	},
+	{
 		"name": "Grassland",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
-        "RGB": [0, 163, 0],
-        "uniques": []
+       	 	"RGB": [0, 163, 0],
+       	 	"uniques": []
     }
 ]
