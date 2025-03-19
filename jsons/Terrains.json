@@ -18,7 +18,7 @@
 				"Every [60] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
-		"name": "Plain",
+		"name": "Plains",
 		"type": "Land",
 		"food": 1,
 		"movementCost": 1,
