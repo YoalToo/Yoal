@@ -32,5 +32,41 @@
 		"movementCost": 1,
        	 	"RGB": [168,185,102],
        	 	"uniques": []
+    	},
+	{
+		"name": "Tundra",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+       	 	"RGB": [168,185,102],
+       	 	"uniques": []
+    	},
+	{
+		"name": "Snow",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+       	 	"RGB": [168,185,102],
+       	 	"uniques": []
+    	},
+	{
+		"name": "Mountain",
+		"type": "Land",
+		"impassable": true,
+		"defenceBonus": 0.25,
+		"RGB": [120, 120, 120],
+		"uniques": ["Rough terrain",
+				"Has an elevation of [4] for visibility calculations",
+				"Occurs in chains at high elevations",
+				"Units ending their turn on this terrain take [15] damage"]
+	},
+	{
+		"name": "Desert",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+       	 	"RGB": [168,185,102],
+       	 	"uniques": []
     	}
+	
 ]
