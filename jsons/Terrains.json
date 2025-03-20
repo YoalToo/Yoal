@@ -289,6 +289,15 @@
 					"Units ending their turn on this terrain take [15] damage <for [Submarine] units>",
 					"Units ending their turn on this terrain take [15] damage <for [Naval Carrier] units>"]
 	},
+	{
+		"name": "Sea-Fog",
+		"type": "TerrainFeature",
+		"occursOn": ["Ocean"],
+		"movementCost": 2,
+		"uniques": ["Occurs in groups of 4 to 10 tiles",
+			"Blocks line-of-sight from tiles at same elevation"
+		]
+	}
 
 	
 ]
