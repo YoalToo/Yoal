@@ -294,7 +294,7 @@
 		"type": "TerrainFeature",
 		"occursOn": ["Ocean"],
 		"movementCost": 2,
-		"uniques": ["Occurs in groups of 4 to 10 tiles",
+		"uniques": ["Occurs in groups of 3 to 7 tiles",
 			"Blocks line-of-sight from tiles at same elevation"
 		]
 	}
