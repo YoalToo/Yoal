@@ -213,6 +213,21 @@
 		"civilopediaText": [{"text":"A Taming can be built here without cutting it down", "link":"Improvement/Taming"}]
 	},
 	{
+		"name": "World Tree",
+		"type": "NaturalWonder",
+		"food": 5,
+		"movementCost": 3,
+		"overrideStats": true,
+		"unbuildable": true,
+		"defenceBonus": 0.5,
+		"occursOn": ["Grassland"],
+		"uniques": ["Rough terrain", "Vegetation",
+					"Blocks line-of-sight from tiles at same elevation",
+					"[1]% Chance to be destroyed by nukes",
+					"[-1] to Fertility for Map Generation",
+		"civilopediaText": [{"text":"The big tree"}]
+	},
+	{
 		"name": "Marsh",
 		"type": "TerrainFeature",
 		"food": -1,
